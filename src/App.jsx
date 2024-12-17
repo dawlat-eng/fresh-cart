@@ -25,7 +25,7 @@ import Payment from './Components/Payment/Payment';
 import ProductDetails from './Components/ProductDetails/ProductDetails';
 import Wishlist from './Components/Wish-list/Wishlist';
 import ForgotPassword from './Components/Forgotpassword/ForgotPassword';
-import ResetPassword from './Components/Resetpassword/Resetpassword';
+import ResetPassword from './Components/Resetpassword/ResetPassword';
 import SubCategories from './Components/SubCategories/SubCategories';
 // Styles
 import './App.css';
